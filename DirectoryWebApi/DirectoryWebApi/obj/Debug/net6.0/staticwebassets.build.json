@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D6mgd00MYXBjqnZrVGNSRcJyL7lZWOcrIgK4KZiI2u4=",
+  "Source": "DirectoryWebApi",
+  "BasePath": "_content/DirectoryWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
